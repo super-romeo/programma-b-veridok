@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://programma-b.veridok.ru/sitemap.xml
